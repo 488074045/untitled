@@ -24,9 +24,9 @@
 
 <body>
 <form action="deserve" >
-    账号<input type="text" name="name"/>
+    账号：<input type="text" name="name"/>
     <br/>
-    密码<input type="password" name="pwd"/>
+    密码：<input type="password" name="pwd"/>
     <br/>
     <input type="submit" value="提交"/>
 </form>
